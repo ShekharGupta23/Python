@@ -1,1 +1,0 @@
-# write a python program to find sum of first n even numbers.
